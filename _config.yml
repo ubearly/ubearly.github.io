@@ -37,7 +37,7 @@ scholar:
 header_pages:
   #  - about.markdown
   - blog.markdown
-  - pubs.bib
+  - pubs.md
   - talk.md
   - CV.md
 
