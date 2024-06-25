@@ -28,10 +28,22 @@ layout: page
 
 	Huayang Song, Hao Sun, Jiang-Hao Yu
 
-	[2305.16770 [hep-ph]](https://inspirehep.net/literature/2667607)
+	[JHEP 01 (2024) 161](https://inspirehep.net/literature/2667607)
 
 - **Complete EFT Operator Bases for Dark Matter and Weakly-Interacting Light Particle**
 
 	Huayang Song, Hao Sun, Jiang-Hao Yu
 
-	[2306.05999 [hep-ph]](https://inspirehep.net/literature/2663021)
+	[JHEP 05 (2024) 103](https://inspirehep.net/literature/2663021)
+
+- **Complete CP Eigen-bases of Mesonic Chiral Lagrangian up to p8-order**
+	
+	Xuan-He Li, Hao Sun, Feng-Jie Tang, Jiang-Hao Yu
+	
+	[2404.14152 [hep-ph]](https://inspirehep.net/literature/2779485)
+
+- **Complete CP-eigen Bases of Meson-Baryon Chiral Lagrangian up to p5-order**
+	
+	Chuan-Qiang Song, Hao Sun, Jiang-Hao Yu
+
+	[2404.15047 [hep-ph]](https://inspirehep.net/literature/2780077)
