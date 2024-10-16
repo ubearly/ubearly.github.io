@@ -40,10 +40,10 @@ layout: page
 	
 	Xuan-He Li, Hao Sun, Feng-Jie Tang, Jiang-Hao Yu
 	
-	[2404.14152 [hep-ph]](https://inspirehep.net/literature/2779485)
+	[JHEP 08 (2024) 189](https://inspirehep.net/literature/2779485)
 
 - **Complete CP-eigen Bases of Meson-Baryon Chiral Lagrangian up to p5-order**
 	
 	Chuan-Qiang Song, Hao Sun, Jiang-Hao Yu
 
-	[2404.15047 [hep-ph]](https://inspirehep.net/literature/2780077)
+	[JHEP 09 (2024) 171](https://inspirehep.net/literature/2780077)
