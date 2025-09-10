@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Publications
+title: Publication
 layout: page
 ---
 
@@ -47,3 +47,21 @@ layout: page
 	Chuan-Qiang Song, Hao Sun, Jiang-Hao Yu
 
 	[JHEP 09 (2024) 171](https://inspirehep.net/literature/2780077)
+
+- **Systematic Spurion Matching between Low Energy EFT and Chiral Lagrangian**
+
+    Chuan-Qiang Song, Hao Sun, Jiang-Hao Yu
+
+    [2501.09787 [hep-ph]](https://inspirehep.net/literature/2870309)
+
+- **Chiral effective field theories for strong and weak dynamics**
+
+    Hao Sun, Yi-Ning Wang, Jiang-Hao Yu
+
+    [JHEP 08 (2025) 185](https://inspirehep.net/literature/2872240)
+
+- **Flavor and CP Symmetries in the Standard Model Effective Field Theory**
+
+    Hao Sun, Jiang-Hao Yu
+
+    [2502.03526 [hep-ph]](https://inspirehep.net/literature/2877061)
