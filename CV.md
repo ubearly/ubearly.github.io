@@ -3,7 +3,7 @@ title: CV
 layout: page
 ---
 
-**Hao Sun** (孙浩)
+## Hao Sun (孙浩)
 
 ## Education
 
